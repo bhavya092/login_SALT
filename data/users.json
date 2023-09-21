@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin@salt.com",
+      "password": "$2b$10$86bl6fmUKDPtdFJkfu6NiuFb6W/WCoKSUF0AdLLOZK6VuscNM7mZK",
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "username": "bhavya@gmail.com",
+      "password": "$2b$10$ciQWqgi4al4LdDW8irUbhesOPASnQE/3r11wB9CQYdKFyxpnd92aa",
+      "isAdmin": true
+    },
+    {
+      "id": 3,
+      "username": "chandeep@gmail.com",
+      "password": "$2b$10$kUx8lxmJI2AT8nUbiVXAy.Z03N4o0b4PogIXEoDdQK7po0bT.KWUC",
+      "isAdmin": false
+    },
+    {
+      "id": 4,
+      "username": "johndoe@yahoo.in",
+      "password": "$2b$10$acbRJ0wVFCB0riFS/LoMEeSkh0DjL1VBVUwu7TocdsELJbF5cwzRi",
+      "isAdmin": false
+    }
+  ]
+}
